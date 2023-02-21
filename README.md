@@ -5,7 +5,7 @@
 - 👨🏼‍💻 I’m currently working as a Web Developper at Helios 🌱
 
 - 🎵 I’m looking to collaborate on **projects linked to music**
-🌱
+
 - 💬 Ask me about **front-end, back-end, UX/UI Design**
 
 - 📫 How to reach me **adrienhors1@gmail.com**
