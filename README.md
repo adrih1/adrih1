@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrien Hors</h1>
-<h3 align="center">An alumni from ESSEC's BBA and Le Wagon Web Development bootcamp !</h3>
+<h3 align="center">An alumni from ESSEC's BBA and Le Wagon's Web Development bootcamp !</h3>
 
 
 - 👨🏼‍💻 I’m currently working as a Web Developper at Helios 🌱
