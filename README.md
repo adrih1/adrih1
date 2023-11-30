@@ -2,7 +2,7 @@
 <h3 align="center">An alumni from ESSEC's BBA and Le Wagon's Web Development bootcamp !</h3>
 
 
-- 👨🏼‍💻 I’m currently working as a Web Developper at Helios 🌱
+- 👨🏼‍💻 I’m currently studying at École 42
 
 - 🎵 I’m looking to collaborate on **projects linked to music**
 
