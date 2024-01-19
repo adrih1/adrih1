@@ -6,7 +6,7 @@
       <p> 👨🏼‍💻 I’m currently studying at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
       <p> 🌱 I am learning <strong>Three JS and C</strong></p>
       <p> 🎵 I’m looking to collaborate on <strong>projects linked to music</strong> </p>
-      <p>💬 Ask me about **front-end, back-end, UX/UI Design**</p>
+      <p>💬 Ask me about <strong>front-end, back-end, UX/UI Design</strong></p>
       <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
 </div>
 
@@ -17,6 +17,8 @@
 
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40" />  
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
@@ -29,6 +31,7 @@
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
       <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+
 </div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
