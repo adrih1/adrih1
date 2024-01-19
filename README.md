@@ -1,60 +1,47 @@
-<h1 align="center">Hi 👋, I'm Adrien Hors</h1>
-<h3 align="center">An alumni from ESSEC's BBA and Le Wagon's Web Development bootcamp !</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrien Hors</h1>
 
+<h2 align="center">About Me:</h2>
+<h3 align="center">An alumni from ESSEC's BBA now studying at École 42</h3>
+<div align ="center">
+      <p> 👨🏼‍💻 I’m currently studying at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
+      <p> 🌱 I am learning <strong>Three JS and C</strong></p>
+      <p> 🎵 I’m looking to collaborate on <strong>projects linked to music</strong> </p>
+      <p>💬 Ask me about **front-end, back-end, UX/UI Design**</p>
+      <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
+</div>
 
-- 👨🏼‍💻 I’m currently studying at École 42
+<h2 align="center">🌐 Socials:</h2>
+<div align="center">
+      <a href="https://www.linkedin.com/in/gabriel-bazart-87b3ab265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+</div>
 
-- 🎵 I’m looking to collaborate on **projects linked to music**
+<h2 align="center">💻 Tech Stack:</h2>
+<div align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+      <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+      <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+</div>
 
-- 💬 Ask me about **front-end, back-end, UX/UI Design**
+<h2 align="center">📊 GitHub Stats:</h2>
+<table center="align">
+<tr>
+<td>
 
-- 📫 How to reach me **adrienhors1@gmail.com**
+![Adrih1's GitHub stats](https://github-readme-stats-five-gules.vercel.app/api?username=adrih1&count_private=true&show_icons=true&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/adrien-hors-00188117a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adrien hors" height="30" width="40" /></a>
-</p>
+</td>
+<td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrih1&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="adrih1" />       </td>
+</tr>
+</table>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  </a>   
-  <a href="https://fr.reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> 
-  </a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrih1&show_icons=true&locale=en&layout=compact" alt="adrih1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrih1&show_icons=true&locale=en" alt="adrih1" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
