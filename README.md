@@ -4,7 +4,7 @@
 <h3 align="center">An alumni from ESSEC's BBA now studying at École 42</h3>
 <div align ="center">
       <p> 👨🏼‍💻 I’m currently studying at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
-      <p> 🌱 I am learning <strong>Three JS and C</strong></p>
+      <p> 🌱 I am learning <strong>Three JS</strong>, <strong>C</strong> and <strong>C++</strong></p>
       <p>💬 Ask me about <strong>front-end, back-end, UX/UI Design</strong></p>
       <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
 </div>
