@@ -3,7 +3,7 @@
 <h2 align="center">About Me:</h2>
 <h3 align="center">An alumni from ESSEC's BBA now studying at <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a></h3>
 <div align ="center">
-      <p> 🌱 I am learning <strong>C</strong>, and <strong>C++</strong></p>
+      <p> 🌱 I am learning about <strong>C</strong>, <strong>C++</strong>, <strong>threads</strong>, <strong>servers</strong>, <strong>algorithms</strong> and many other things</p>
       <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
 </div>
 
