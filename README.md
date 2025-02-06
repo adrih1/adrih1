@@ -10,7 +10,7 @@
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
       <a href="https://www.linkedin.com/in/adrien-hors1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-      <a href="https::/adrienhors.com">My Portfolio</a>
+      <a href="https://www.adrienhors.com/">My Portfolio</a>
       
       
 </div>
