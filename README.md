@@ -1,17 +1,18 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrien Hors</h1>
 
 <h2 align="center">About Me:</h2>
-<h3 align="center">An alumni from ESSEC's BBA now studying at École 42</h3>
+<h3 align="center">An alumni from ESSEC's BBA now studying at <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a></h3>
 <div align ="center">
-      <p> 👨🏼‍💻 I’m currently studying at &emsp; <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a> </p>
-      <p> 🌱 I am learning <strong>Three JS</strong>, <strong>C</strong> and <strong>C++</strong></p>
-      <p>💬 Ask me about <strong>front-end, back-end, UX/UI Design</strong></p>
+      <p> 🌱 I am learning <strong>C</strong>, and <strong>C++</strong></p>
       <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
-      <a href="https://www.linkedin.com/in/gabriel-bazart-87b3ab265/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/adrien-hors1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
+      <a href="https::/adrienhors.com">My Portfolio</a>
+      
+      
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>
