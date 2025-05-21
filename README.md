@@ -1,18 +1,16 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Adrien Hors</h1>
 
 <h2 align="center">About Me:</h2>
-<h3 align="center">An alumni from ESSEC's BBA now studying at <a href="https://42.fr/"><img src="https://42.fr/wp-content/uploads/2021/05/42-Final-sigle-seul.svg"/></a></h3>
+<h3 align="center">An alumni from ESSEC's BBA now studying at 42</h3>
 <div align ="center">
-      <p> 🌱 I am learning about <strong>C</strong>, <strong>C++</strong>, <strong>threads</strong>, <strong>servers</strong>, <strong>algorithms</strong> and many other things</p>
+      <p> 🌱 I am learning about <strong>cybersecurity</strong>, <strong>C</strong>, <strong>C++</strong>, <strong>threads</strong>, <strong>servers</strong>, <strong>algorithms</strong> and many other things</p>
+       <p> 🔍 I am looking for a two-year apprenticeship beginning in September 2025.</p>
       <p> 📫 How to reach me <strong><a href="mailto:adrienhors1@gmail.com">adrienhors1@gmail.com</a></strong> </p>
 </div>
 
 <h2 align="center">🌐 Socials:</h2>
 <div align="center">
       <a href="https://www.linkedin.com/in/adrien-hors1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-      <a target="_blank" href="https://www.adrienhors.com/">My Portfolio</a>
-      
-      
 </div>
 
 <h2 align="center">💻 Tech Stack:</h2>
